@@ -5,6 +5,7 @@ Implemented with `IPython` notebooks with  `Keras`/`TensorFlow 2`. Explanations 
 
 Tasks details:
 ### IDS: 
+1. Python Basics
 2. DecisionTreeClassifier
 3. Clastering with Scikit-Learn Python
 4. Ensemble Methods in Machine Learning
